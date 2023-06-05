@@ -73,7 +73,7 @@ $ npm run test:cov
 
 ## OpenAPI
 
-To access the documentation go to `/docs`.
+To access the documentation go to `http://localhost:3000/docs`.
 
 ## Support
 
