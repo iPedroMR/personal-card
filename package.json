@@ -1,8 +1,8 @@
 {
   "name": "personal-card",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "The Personal Card API is an application that allows you to make your online contacts available as a virtual card through a simple API.",
+  "author": "Pedro Rezende",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
